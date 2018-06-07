@@ -1,0 +1,2 @@
+# imageshrinking
+oc
